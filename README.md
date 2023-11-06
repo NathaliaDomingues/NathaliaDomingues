@@ -1,6 +1,6 @@
 <img align="left" width="370px" height="420px" src="https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/c48d08f5-482d-4ae0-967b-3a8e6167db81">
 
-## Olá. mundo! Estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social (IOS)
+## Olá, mundo! Estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social (IOS)
 
 ## Tecnologias que estou aprendendo:
 ![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/748a66e3-70a5-4eac-9222-e3bd95405544)
