@@ -8,9 +8,7 @@
 
 ## Encontre-me:
 
-<a href="https://www.instagram.com/nanananath.o_c/"> <img src="https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/bd22908d-d48e-410c-8f6e-9ee12487949d"> </a>
-
-![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/2b2d1a28-85d0-4af6-b890-c602a094598f) </a>
+<a href="https://www.instagram.com/nanananath.o_c/"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/146946721/279700658-bd22908d-d48e-410c-8f6e-9ee12487949d.png"></a> ![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/2b2d1a28-85d0-4af6-b890-c602a094598f) </a>
 
 
 </img>
