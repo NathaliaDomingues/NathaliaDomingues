@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá, meu nome é nathália, estou iniciando em Programação Web, e futuramente espero trabalhar com design gráfico, e em busca de aprender coisas novas.
+ Olá, meu nome é Nathália, estou iniciando em Programação Web, e futuramente espero trabalhar com design gráfico, e em busca de aprender coisas novas.
 </p>
 
 <p align="left">
