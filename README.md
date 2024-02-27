@@ -5,6 +5,7 @@
 ## Tecnologias que estou aprendendo:
 ![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/748a66e3-70a5-4eac-9222-e3bd95405544)
 ![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/d1518f91-b9fa-4935-821a-336d921ac462)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Encontre-me:
 
