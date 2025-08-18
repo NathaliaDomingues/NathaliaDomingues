@@ -1,54 +1,31 @@
-<img align="left" width="370px" height="420px" src="https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/c48d08f5-482d-4ae0-967b-3a8e6167db81">
-
-## Olá, mundo! Estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social (IOS)
-
-## Tecnologias que estou aprendendo:
-![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/748a66e3-70a5-4eac-9222-e3bd95405544)
-![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/d1518f91-b9fa-4935-821a-336d921ac462)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Encontre-me:
-
-<a href="https://www.instagram.com/nanananath.o_c/"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/146946721/279700658-bd22908d-d48e-410c-8f6e-9ee12487949d.png"></a> ![image](https://github.com/NathaliaDomingues/NathaliaDomingues/assets/146946721/2b2d1a28-85d0-4af6-b890-c602a094598f) </a>
-
-
-</img>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fbff2e&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindos(as)+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 <div align="center">
-
- <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaDomingues&layout=compact&theme=dark&hide_border=true" /></a> 
-
-
-</img>
-
-</div>
-
-<br> <br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
- Olá, meu nome é Nathália, estou iniciando em Programação Web, e futuramente espero trabalhar com design gráfico, e em busca de aprender coisas novas.
-</p>
-
-<p align="left">
  
-  🦄 Objetivo: Aprendizagem contínua.
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliadomingues&show_icons=true&theme=gruvbox&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliadomingues&layout=compact&theme=gruvbox)
 
-<p align="left">
-</p>
+</div>
 
-  💼 Ferramentas: PowerPoint e Canva
+## 
 
+<div align="left">
 
-<p align="left">
-  💌 Navegue à vontade pelo perfil.
-</p>
-
-
-
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nathaliafreitas2045@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/nathaliadominguesfreitas/)
 
 
 </div>
+<img width="200" height="200" align="right" alt="gifeu" src="https://github.com/user-attachments/assets/b54be055-34e9-4305-977f-dd7de7772edf"/>
+
+<p align="left">Sou uma amadora na área de T.I, gosto muito de aprender coisas novas, busco aprimorar minhas habilidades técnicas, enquanto expresso paixão por áreas que estimulam a criatividade e imaginação. Estou ansiosa para explorar novas oportunidades que me permitam desenvolver meu conhecimento e contribuir para projetos inovadores.</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
+ </div>
