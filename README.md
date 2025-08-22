@@ -22,7 +22,7 @@
 </div>
 <img width="200" height="200" align="right" alt="gifeu" src="https://github.com/user-attachments/assets/b54be055-34e9-4305-977f-dd7de7772edf"/>
 
-<p align="left">Sou uma amadora na área de T.I, gosto muito de aprender coisas novas, busco aprimorar minhas habilidades técnicas, enquanto expresso paixão por áreas que estimulam a criatividade e imaginação. Estou ansiosa para explorar novas oportunidades que me permitam desenvolver meu conhecimento e contribuir para projetos inovadores.</p>
+<p align="left">Gosto muito de aprender coisas novas, busco aprimorar minhas habilidades técnicas, enquanto expresso paixão por áreas que estimulam a criatividade e imaginação. Estou ansiosa para explorar novas oportunidades que me permitam desenvolver meu conhecimento e contribuir para projetos inovadores.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
